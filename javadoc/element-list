@@ -1,0 +1,6 @@
+com.xinchen.wordguessing.common
+com.xinchen.wordguessing.controller
+com.xinchen.wordguessing.entities
+com.xinchen.wordguessing.main
+com.xinchen.wordguessing.model
+com.xinchen.wordguessing.view

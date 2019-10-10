@@ -1,0 +1,11 @@
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/model/LeaderBoard.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/entities/Player.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/model/WordDict.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/main/Main.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/entities/GameStatus.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/model/GamePlay.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/model/GuessWord.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/common/DBUtil.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/view/GameDisplay.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/entities/Score.java
+/Users/xinchen/IdeaProjects/wordguessing/src/main/java/com/xinchen/wordguessing/controller/GameController.java

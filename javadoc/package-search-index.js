@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.xinchen.wordguessing.common"},{"l":"com.xinchen.wordguessing.controller"},{"l":"com.xinchen.wordguessing.entities"},{"l":"com.xinchen.wordguessing.main"},{"l":"com.xinchen.wordguessing.model"},{"l":"com.xinchen.wordguessing.view"}]
