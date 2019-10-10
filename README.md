@@ -52,8 +52,13 @@ Testing classes of important logic are implemented.
 
 ## How to Build and Run the Program
    
-   * Download the project from github
+   * Clone the project from github
+     ```sh 
+     git clone https://github.com/xinchen1059/reach-project.git
+     ```
    * Build the project using maven -- please install maven if you do not have it
-   * mvn package
-   * java -cp target/wordguessing-1.0-SNAPSHOT.jar com.xinchen.wordguessing.main.Main
+     ```sh
+     mvn package
+     java -cp target/wordguessing-1.0-SNAPSHOT.jar com.xinchen.wordguessing.main.Main
+     ```
    * Follow the instructions to play the game, have fun!
